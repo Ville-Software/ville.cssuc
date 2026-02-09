@@ -10,6 +10,8 @@ Qooxdoo package for enabling native CSS handling of qooxdoo application UI/UX.
 
 [Tabler App](https://sqville.github.io/ville.CssUtilityClasses/published/tablerapp/)
 
+Demo source code can be found here: [ville.CssUtilityClasses](https://github.com/sqville/ville.CssUtilityClasses)
+
 ## About the Project
 
 This project consists of one namespace with two key features:
