@@ -14,13 +14,5 @@
     }
   ],
   "defaultTarget": "source",
-  "locales": ["en"],
-
-  "applications": [
-    {
-      "class": "ville.cssuc.demo.Application",
-      "theme": "ville.cssuc.theme.Theme",
-      "name": "ville.cssuc"
-    }
-  ]
+  "locales": ["en"]
 }

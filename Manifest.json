@@ -4,16 +4,16 @@
   {
     "name" : "ville.cssuc",
 
-    "summary" : "",
-    "description" : "",
+    "summary" : "Qooxdoo package/library for enabling CSS driven UI/UX.",
+    "description" : "Qooxdoo package/library for enabling CSS driven UI/UX.",
 
-    "homepage" : "",
+    "homepage" : "villesoftware.com",
 
     "license" : "MIT license",
     "authors" : [
   {
-    "name": "",
-    "email": ""
+    "name": "Chris Eskew",
+    "email": "sqville@gmail.com"
   }
 ],
 
@@ -24,9 +24,7 @@
   {
     "namespace"   : "ville.cssuc",
     "encoding"    : "utf-8",
-    "class"       : "source/class",
-    "resource"    : "source/resource",
-    "translation" : "source/translation"
+    "class"       : "source/class"
   },
 
   "requires": {
