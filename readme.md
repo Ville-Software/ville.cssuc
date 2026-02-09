@@ -15,7 +15,7 @@ Qooxdoo package for enabling native CSS handling of qooxdoo application UI/UX.
 This project consists of one namespace with two key features:
 
 * ville.cssuc (library) - Mixins for bypassing qooxdoo layout functionality.
-* ville.cssuc.theme.blankslate.Theme - A Qooxdoo theme containing all widget entries, but empty.
+* ville.cssuc.theme.blankslate.Theme - A Qooxdoo theme containing all widget entries, but completely empty.
 
 ## Getting Started
 
@@ -54,7 +54,7 @@ if (qx.core.Environment.get("ville.cssuc")) {
 
 ### Optional - Start from an empty Qooxdoo theme - blankslate
 
-To assist with starting a ville.cssuc based Qooxdoo application, set your application's starter theme to "ville.cssuc.theme.blankslate.Theme." All entries are present, just empty. In additon to starting fresh, this eliminates missing appearance build warnings/errors. Example below if from our Ville UI demo application.
+To assist with starting a ville.cssuc based Qooxdoo application, set your application's starter theme to "ville.cssuc.theme.blankslate.Theme." All entries are present, just empty. In additon to starting fresh, this eliminates missing appearance build warnings/errors. Example below from our Ville UI demo application.
 
 ```json
 "applications": [
